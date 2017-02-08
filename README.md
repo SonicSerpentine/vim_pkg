@@ -2,7 +2,7 @@
 
 ### VIMRC ###
 
-This is an evolving config based on my initial learnings of Vim, aesthetic preferences, and still brief experience developing withing it. One large objective of this config is to make it work across the multiple OSes and terminal environemtns I find myself working across.  
+This is an evolving config based on my initial learnings of Vim, aesthetic preferences, and still brief experience developing withing it. One large objective of this config is to make it work across the multiple OSes and terminal environments I find myself working across.  
 * Windows -> gvim or through ConEmu
 * Linux
 * OSX terminal
