@@ -1,0 +1,28 @@
+#####################
+###    Hotkeys    ###
+#####################
+
+Fullscreen: Alt-Enter
+Split Horizontal: Ctrl-Shift-o
+Split Vertical:   Ctrl-Shift-e
+Toggle Pane:      Ctrl-Tab (+Shift for backwards)
+Open Settings: Win-Alt-p
+
+
+#####################
+## Visual Settings ##
+#####################
+
+font Consolas size: 12
+
+Features -> Transparency
+
+Main -> Tab bar -> Don't show
+
+setting ConEmu as default terminal
+	- Integration -> Default term
+		- first checkbox, Force ConEmu as default...
+
+airline/powerline
+	- StartUp->Environment
+		- add chcp 65001 <- to get utf8 necessary for powerline symbols
